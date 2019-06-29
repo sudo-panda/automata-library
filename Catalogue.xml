@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <Catalogue>
+  
+  
   <behaviour name="kobuki obstacle avoidance">
+    
+    
     <description>This is a sample</description>
+    
+  
+  </behaviour>
+  
+
+  <behaviour name="kobuki bump and go">
+    <description>This is the second behaviour</description>
   </behaviour>
 </Catalogue>
