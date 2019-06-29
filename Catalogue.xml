@@ -4,6 +4,6 @@
     <description>This is a sample</description>
   </behaviour>
   <behaviour name="kobuki bump and go">
-    <description>This is the second behaviour</description>
+    <description>Description update</description>
   </behaviour>
 </Catalogue>
