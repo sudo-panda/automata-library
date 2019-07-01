@@ -3,4 +3,7 @@
   <behaviour name="kobuki obstacle avoidance">
     <description>This is a sample</description>
   </behaviour>
+  <behaviour name="prius crossing">
+    <description>Checking threading in Library Export</description>
+  </behaviour>
 </Catalogue>
