@@ -3,4 +3,7 @@
   <behaviour name="kobuki obstacle avoidance">
     <description>This is a sample</description>
   </behaviour>
+  <behaviour name="ExportTest">
+    <description>This behaviour tests the new export functionality.</description>
+  </behaviour>
 </Catalogue>
