@@ -3,6 +3,9 @@
   <behaviour name="kobuki obstacle avoidance">
     <description>This is a sample</description>
   </behaviour>
+  <behaviour name="kobuki bump and go">
+    <description>Description update</description>
+  </behaviour>
   <behaviour name="prius crossing">
     <description>This is a big description to test the Library Import Functionality in the VisualStates Tool. Ignore the rest of the lines. dskjlsjkfjkdjkdskdjksksdjkjkjlksldjlkdlkkkjkjkjkkjkjkjkjkjkjkjjkjddddddddddddddddddddddddddddddddd
 sdsdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
