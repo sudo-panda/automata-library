@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<VisualStates>
+  <global_namespace>
+    <functions></functions>
+    <variables></variables>
+  </global_namespace>
+  <libraries/>
+  <state id="0" initial="True">
+    <posx>0</posx>
+    <posy>0</posy>
+    <name>root</name>
+    <code></code>
+    <timestep>100</timestep>
+    <namespace>
+      <functions></functions>
+      <variables></variables>
+    </namespace>
+  </state>
+</VisualStates>
