@@ -15,5 +15,16 @@
       <functions></functions>
       <variables></variables>
     </namespace>
+    <state id="1" initial="True">
+      <posx>858.0</posx>
+      <posy>908.0</posy>
+      <name>test</name>
+      <code></code>
+      <timestep>100</timestep>
+      <namespace>
+        <functions></functions>
+        <variables></variables>
+      </namespace>
+    </state>
   </state>
 </VisualStates>
